@@ -1,9 +1,5 @@
-# Proyecto Kotlin base
+Pepita TDD
 
-Este repositorio contiene un proyecto Kotlin configurado para ser utilizado con cualquier herramienta que sea compatible con [Gradle](https://gradle.org/). Recomendamos utilizar [IntelliJ Idea Community Edition](https://www.jetbrains.com/idea/) como entorno de desarrollo.
+Vamos a hacer un Test Driven Development muy simple para entender facilmente como se debe de realizar.
 
-Incluye lo siguiente:
-
-* :file_folder: Estructura de directorios lista para incluir código productivo y tests usando [Kotest](https://github.com/kotest/kotest).
-* :mag: Una [Kotlin Worksheet](https://kotlinlang.org/docs/tutorials/quick-run.html#scratches-and-worksheets) ya creada, para poder hacer pruebas rápidas.
-* :policewoman: Configuración necesaria para que [Travis CI](https://travis-ci.com/) ejecute los tests cada vez que se hace un push.
+Para ello haremos que nuestra hermosa y amada PEPITA haga acciones simples como comer y volar.
