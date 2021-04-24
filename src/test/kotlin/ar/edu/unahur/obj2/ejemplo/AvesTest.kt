@@ -5,7 +5,7 @@ import io.kotest.matchers.shouldBe
 
 class AvesTest : DescribeSpec({
     val pepita = Ave()
-    describe("Pepita") {
+    describe("Pepita en TDD") {
         it("pepita come") {
             pepita.comer()
             pepita.energia.shouldBe(10)
