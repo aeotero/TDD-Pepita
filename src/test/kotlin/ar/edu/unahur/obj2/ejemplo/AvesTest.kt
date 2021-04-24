@@ -12,8 +12,23 @@ class AvesTest : DescribeSpec({
         }
 
         it("pepita vuela"){
-//            TODO y ahora , como vuela?
+//          y ahora ,como vuela?
         }
+
+//----------FIN DE PRIMERA PARTE-------------------------------------------------------
+
+        it("pepita come manzana ") {
+//          Como come manzana?
+        }
+
+        it("pepita come uva ") {
+//          Come uva?
+        }
+
+        it("pepita vuela 2km"){
+//          vuela o es vaga?
+        }
+
 
     }
 })
