@@ -15,14 +15,14 @@ Y al final (nuevo principio) agregar más requerimientos a nuestro test que har�
 
 Acuérdensen que en el Intellij con ALT+ENTER (sobre el error) te da diversas opciones para resolver el conflicto.
 
-------------PRIMERA PARTE--------------------------------------------------------------------------------------------------------------------------
+------------PRIMERA PARTE----------------------------------------------------------------------------------------------------
 
 Tenemos a pepita, solo con su estómago vacío, y con ganas de comer y volar.
 Pero no sabemos por donde comenzar, entonces vamos por las acciones.
 * 1) Que pepita coma. La accion de comer de pepita le da 10 de energía.
 * 2) Que pepita vuele. La accion de volar le resta 7 de energía.
 
--------------SEGUNDA PARTE-----------------------------------------------------------------------------------------------------------------------
+-------------SEGUNDA PARTE--------------------------------------------------------------------------------------------------
 
 Ahora la vamos a complicar más, vamos a diferenciar las comidas y las distancias que vuela pepita.
 * 3) Que pepita coma(unaComida). Ahora si pepita come Manzana, le aumenta la energía en 10, y si come Uva, en 2.
