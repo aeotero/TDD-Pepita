@@ -11,5 +11,9 @@ class AvesTest : DescribeSpec({
             pepita.energia.shouldBe(10)
         }
 
+        it("pepita vuela"){
+//            TODO y ahora , como vuela?
+        }
+
     }
 })
